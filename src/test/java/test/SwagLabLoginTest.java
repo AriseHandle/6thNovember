@@ -94,6 +94,11 @@ public class SwagLabLoginTest extends BaseTest {
 		
 	}
 	
+	@Test
+	public void test() {
+		System.out.println("Hello");
+	}
+	
 	@AfterMethod
 	public void closeBrowser() {
 	
