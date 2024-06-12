@@ -12,9 +12,5 @@ public class HomePageTest extends BaseTest {
 		driver =Browser.chrome("https://www.saucedemo.com/");
 	}
 
-	@Test
-	public void sampleTest() {
-		System.out.println("Sample test added");
-	}
-	
+
 }
